@@ -14,3 +14,6 @@ A powerful tool to activate all the Professional and Enterprise Retails editions
 
 # TIPS & TRICKS
 » Your Windows must be Professional or Enterprise Retail editions to get activated with this.
+
+
+[DOWNLOAD NOW](https://github.com/Kamrulofficial/DigitalLicense/raw/main/Win%2010%20Digital%20License%20Activation%201.4.zip)

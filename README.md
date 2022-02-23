@@ -1,13 +1,14 @@
- # Win 10 Digital License Activation 1.4
+ # ACTIVE ALL WINDOWS JUST USING THIS DIGITAL LICENSE ACTIVATION
  
  
-A powerful tool to activate all the Professional and Enterprise Retails editions of Windows 10. It activates them permanently,<br> without leaving any residue or tasks on you! So that ends your Windows 10 Activation problem for good. <br> Just install and your Windows 10 will be activated without any hassle. So enjoy.
+A powerful tool to activate all the Professional and Enterprise Retails editions of Windows. It activates them permanently,<br> without leaving any residue or tasks on you! So that ends your Windows Activation problem for good. <br> Just install and your Windows
+will be activated without any hassle. So enjoy.
 
 # INFORMATION
 » Setup Mode: Silent<br>
 » File Size: 2 MB <br> 
 » Software Info: 32 & 64 Bit <br> 
-» Operating System: 7, 8 & 10; Pro & Ent Retail; 32 & 64 Bit <br>
+» Operating System: 7,8 & 10,11; Pro & Ent Retail; 32 & 64 Bit <br>
 
 
 
@@ -20,3 +21,14 @@ A powerful tool to activate all the Professional and Enterprise Retails editions
 
 # TIPS & TRICKS
 » Your Windows must be Professional or Enterprise Retail editions to get activated with this.
+» Most turn off Windows Defender: Real-Time protection Enjoy
+
+
+
+
+
+
+# Kamrul Hossain
+[ELITEKAMRUL](https://m.me/EliteKamrul)
+
+[see more](http://kamrulofficial.github.io/)
